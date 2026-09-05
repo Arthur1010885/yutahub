@@ -22,7 +22,7 @@ if not game:IsLoaded() then game.Loaded:Wait() end
 --═══════════════════════════════ CONFIGURAÇÕES ═══════════════════════════════--
 local CONFIG = {
     -- ⬇⬇ TROQUE AQUI: link do SEU script que carrega depois da key validada ⬇⬇
-    ScriptURL = "https://raw.githubusercontent.com/acsu123/HOHO_H/main/HohoHub.lua",
+    ScriptURL = "https://raw.githubusercontent.com/Arthur1010885/yutahub/refs/heads/main/HohoHub.lua",
 
     -- ⬇⬇ TROQUE AQUI: link da sua LOJA (botão "copiar link da loja") ⬇⬇
     StoreLink = "https://keyauth.cc/panel/Nr2W59Crsg/Orginalstorepix's%20Application",
